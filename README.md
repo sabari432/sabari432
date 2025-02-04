@@ -25,3 +25,21 @@ I have built real-world websites for Java developers and am currently learning A
 ---
 
 ⚡ Fun Fact: I love watching Breaking Bad ! 😎🔥  
+
+
+📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabari432&show_icons=true&theme=radical" alt="GitHub Stats" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari432&layout=compact&theme=radical" alt="Top Languages" height="165px"/>
+</div>
+
+🔥 GitHub Streak  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabari432&theme=radical" alt="GitHub Streak Stats" height="165px"/>
+</div>
+
+⚡ GitHub Activity Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari432&theme=radical" alt="GitHub Activity Graph"/>
+</div>
+
