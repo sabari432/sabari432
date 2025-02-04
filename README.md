@@ -1,16 +1,27 @@
-## Hi there 👋
+ Hi there, I'm Sabareeswaran 👋  
 
-<!--
-**sabari432/sabari432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Enthusiast | Cloud Learner | Java Developer  
 
-Here are some ideas to get you started:
+I am a final year student with a strong interest in software development, DevOps, AWS, and CI/CD pipelines.  
+I have built real-world websites for Java developers and am currently learning AWS services (10-15) to enhance my cloud skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I'm Working On:  
+  Learning DevOps tools like Git, GitHub Actions, Jenkins, Docker, Kubernetes, and some advanced topics  
+  Exploring AWS services for deployment and automation  
+  Building  CI/CD pipelines and monitoring user activity in systems  
+  Working at a startup, gaining real-world experience in DevOps and cloud technologies  
+
+
+🔧 Tech Stack & Skills:  
+  DevOps: Git, GitHub Actions, Jenkins (learning)  
+  Cloud: AWS (10-15 services)  
+  Programming: Java, python, Bash  
+  Tools: Linux, Docker, Kubernetes (learning)  
+
+📫 Connect with me:  
+[![LinkedIn](www.linkedin.com/in/sabare-eswaran-346902267)  
+[![GitHub](https://github.com/sabari432)  
+
+---
+
+⚡ Fun Fact: I love watching Breaking Bad ! 😎🔥  
