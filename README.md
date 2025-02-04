@@ -26,6 +26,12 @@ I have built real-world websites for Java developers and am currently learning A
 
 ⚡ Fun Fact: I love watching Breaking Bad ! 😎🔥  
 
+✅ Built multiple real-world websites for Java developers
+✅ Hands-on experience with AWS (10-15 services) and DevOps tools
+✅ Created and maintained repositories for automation & CI/CD
+✅ Learning Terraform, Kubernetes, and Jenkins for cloud deployments
+✅ Actively contributing to open-source and DevOps projects
+
 <h1 align="center">👋 Hi, I'm Sabareeswaran</h1>
 
 ### 🚀 DevOps Enthusiast | AWS & Cloud Learner | Java Developer  
