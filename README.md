@@ -72,15 +72,12 @@ My journey in **Git, DevOps, AWS, and Java development** through daily practice 
 
 ### 📫 **Connect with Me**
 - 🔗 **GitHub**: [github.com/sabari432](https://github.com/sabari432)  
-- 🌎 **LinkedIn**: _[Add your LinkedIn if available]_  
-- 📧 **Email**: _[Add your email if you want]_  
+- 🌎 **LinkedIn**: _[www.linkedin.com/in/sabare-eswaran-346902267]_  
+- 📧 **Email**: _[sabareeswaran.n26@gmail.com]_  
 
 ---
 
-### **🚀 Next Steps**
-✅ **Copy & Paste** this updated version into your `README.md` file.  
-✅ **Commit the changes** and refresh your GitHub profile.  
-✅ **Let me know once done**, and I'll review it! 😎🔥  
+
 
 
 
