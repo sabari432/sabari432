@@ -27,19 +27,30 @@ I have built real-world websites for Java developers and am currently learning A
 ⚡ Fun Fact: I love watching Breaking Bad ! 😎🔥  
 
 
-📊 GitHub Stats  
+## 📊 GitHub Stats  
+### 🚀 DevOps Enthusiast | AWS & Cloud Learner | Java Developer  
+I am currently exploring **DevOps**, mastering **Git & CI/CD**, and enhancing my **AWS cloud skills**.  
+Here’s a snapshot of my GitHub contributions and activity:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabari432&show_icons=true&theme=radical" alt="GitHub Stats" height="165px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari432&layout=compact&theme=radical" alt="Top Languages" height="165px"/>
 </div>
 
-🔥 GitHub Streak  
+## 🔥 GitHub Streak  
+### ⚡ Passionate About Automation & Cloud Computing  
+Tracking my daily contributions as I **learn DevOps tools, AWS, and CI/CD pipelines**:
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabari432&theme=radical" alt="GitHub Streak Stats" height="165px"/>
 </div>
 
-⚡ GitHub Activity Graph  
+## ⚡ GitHub Activity Graph  
+### 🛠 Learning, Building & Automating  
+My journey in **Git, DevOps, AWS, and Java development** through daily practice and projects:
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari432&theme=radical" alt="GitHub Activity Graph"/>
 </div>
+
 
