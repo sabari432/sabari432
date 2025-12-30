@@ -4,9 +4,9 @@
 
 <div align="center">
   
-  # 🚀 DevOps Enthusiast | ☁️ AWS Cloud Learner | 💻 Java Developer
+  # 💻 Software Engineer | 🚀 DevOps Practitioner | ☁️ AWS Enthusiast
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;DevOps+Engineer+%7C+Cloud+Enthusiast;Building+Scalable+Cloud+Solutions;Automating+Everything+Possible!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineer+%7C+DevOps+Practitioner;Building+%26+Deploying+Web+Applications;Learning+Cloud+%26+Automation!" alt="Typing SVG" />
   
 </div>
 
@@ -36,28 +36,33 @@
 ```typescript
 const sabareeswaran = {
     pronouns: "He" | "Him",
-    role: "DevOps Engineer",
+    role: "Software Engineer",
     location: "India 🇮🇳",
     education: "Final Year Student",
-    currentFocus: ["DevOps", "Cloud Computing", "Automation"],
+    currentFocus: ["Software Development", "DevOps", "Cloud Computing"],
     
     workExperience: {
-        role: "DevOps Engineer",
+        role: "Software Engineer + DevOps",
         company: "Startup",
-        type: "Real-world Experience"
+        type: "Real-world Experience",
+        responsibilities: [
+            "Building web applications",
+            "Managing deployments",
+            "Implementing CI/CD"
+        ]
     },
     
-    learning: [
-        "Kubernetes Orchestration",
-        "Terraform (IaC)",
-        "AWS Solutions Architecture",
-        "Advanced Jenkins Pipelines"
-    ],
+    expertise: {
+        development: ["Java", "Web Development", "Backend Systems"],
+        devops: ["CI/CD Pipelines", "Docker", "AWS", "Jenkins"],
+        learning: ["Kubernetes (Just Started)", "Advanced Terraform"]
+    },
     
     achievements: [
         "Built 5+ production websites",
-        "Implemented CI/CD pipelines",
-        "Hands-on with 15+ AWS services"
+        "Implemented automated CI/CD pipelines",
+        "Hands-on with 10-15 AWS services",
+        "Managing production deployments"
     ],
     
     funFact: "I love watching Breaking Bad 😎🔥"
@@ -73,18 +78,22 @@ const sabareeswaran = {
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🌱 Currently Learning
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -138,43 +147,43 @@ const sabareeswaran = {
 <tr>
 <td width="50%">
 
-### ☁️ AWS Services (15+)
+### ☁️ AWS Services (10-15)
 ```yaml
 Compute:
-  - EC2, Lambda, ECS, EKS
+  - EC2, Lambda
   
 Storage:
-  - S3, EBS, EFS
+  - S3, EBS
   
 Database:
-  - RDS, DynamoDB
+  - RDS
   
 Networking:
-  - VPC, Route53, CloudFront
+  - VPC, Route53
   
 Management:
   - CloudFormation, CloudWatch
-  - IAM, Systems Manager
+  - IAM
 ```
 
 </td>
 <td width="50%">
 
-### 🔄 DevOps Practices
+### 🔄 DevOps Skills
 ```yaml
 CI/CD:
   - Jenkins Pipelines
   - GitHub Actions
-  - GitLab CI/CD
-  
-IaC:
-  - Terraform
-  - CloudFormation
-  - Ansible
+  - Automated Deployments
   
 Containerization:
   - Docker & Docker Compose
-  - Kubernetes
+  
+IaC:
+  - Terraform (Learning)
+  
+Currently Learning:
+  - Kubernetes (Just Started!)
 ```
 
 </td>
@@ -194,22 +203,22 @@ Containerization:
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
 
-### 💻 Web Development
-Built **5+ production websites** for Java developers with modern tech stacks
+### 💻 Software Development
+Built **5+ production websites** with modern frameworks and best practices
 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="80"/>
 
-### 🔄 CI/CD Pipelines
-Implemented **automated pipelines** with testing, building & deployment
+### 🔄 CI/CD & Automation
+Implemented **automated pipelines** for building, testing & deployment
 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/amazon-web-services.png" width="80"/>
 
-### ☁️ Cloud Experience
-Hands-on with **15+ AWS services** in real production environments
+### ☁️ Cloud & DevOps
+Working with **10-15 AWS services** and managing production deployments
 
 </td>
 </tr>
@@ -226,11 +235,11 @@ Hands-on with **15+ AWS services** in real production environments
   
 ### 🔥 Recent Activity Highlights
 
-🎯 **Learning Kubernetes** - Implementing container orchestration  
+🎯 **Learning Kubernetes** - Just started container orchestration journey  
 🛠️ **Building CI/CD Pipelines** - Automating deployment workflows  
-☁️ **AWS Infrastructure** - Designing scalable cloud solutions  
+☁️ **AWS Infrastructure** - Managing cloud resources  
 🐳 **Docker Projects** - Containerizing applications  
-📚 **DevOps Best Practices** - Continuous improvement journey
+💻 **Web Development** - Building production-ready applications
 
 </div>
 <!--END_SECTION:activity-->
@@ -244,10 +253,11 @@ Hands-on with **15+ AWS services** in real production environments
 ```mermaid
 graph LR
     A[🎓 Student] --> B[💻 Java Developer]
-    B --> C[☁️ Cloud Learner]
-    C --> D[🚀 DevOps Engineer]
-    D --> E[🏢 Startup Experience]
-    E --> F[🎯 Building Production Systems]
+    B --> C[🌐 Full Stack Web Dev]
+    C --> D[🚀 DevOps Practices]
+    D --> E[☁️ AWS & Cloud]
+    E --> F[🏢 Software Engineer]
+    F --> G[📚 Learning Kubernetes]
     
     style A fill:#e1f5ff
     style B fill:#bbdefb
@@ -255,6 +265,7 @@ graph LR
     style D fill:#64b5f6
     style E fill:#42a5f5
     style F fill:#2196f3
+    style G fill:#1976d2
 ```
 
 </div>
@@ -267,9 +278,9 @@ graph LR
 
 | 🔭 Currently Working On | 🌱 Learning | 👯 Looking to Collaborate On |
 |:---:|:---:|:---:|
-| CI/CD Automation | Kubernetes | Open Source DevOps Tools |
-| AWS Infrastructure | Terraform | Cloud Native Projects |
-| Containerization | Service Mesh | Infrastructure Automation |
+| Web Applications | Kubernetes Basics | Open Source Projects |
+| CI/CD Automation | Advanced Terraform | DevOps Tools |
+| AWS Infrastructure | Container Orchestration | Cloud Solutions |
 
 </div>
 
