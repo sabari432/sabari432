@@ -49,26 +49,19 @@
 </p>
 
 ---
----
 
-## ⚡ GitHub Activity Graph
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari432&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
 
----
+| 🎯 Focus Areas | 💼 Experience |
+|:---:|:---:|
+| DevOps & Cloud | AWS, Docker, K8s |
+| CI/CD Pipelines | Jenkins, GitHub Actions |
+| Infrastructure | Terraform, Ansible |
+| Backend | Java, Spring Boot |
 
-
-## 📌 Highlights & Achievements
-
-✅ Built **multiple real-world production websites**  
-✅ Implemented **end-to-end CI/CD pipelines** with automated testing & deployment  
-✅ Hands-on with **10+ AWS services** in production environments  
-✅ Learning **container orchestration with Kubernetes**  
-✅ Infrastructure as Code enthusiast with **Terraform**  
-✅ Active **open-source contributor** and learner  
-✅ Gained practical DevOps experience in a **startup environment**
+</div>
 
 ---
 
@@ -85,12 +78,79 @@ building:
   - Automated CI/CD Workflows
   - Dockerized Applications
   - Cloud-Native Solutions
+  - Production-Ready Web Apps
   
 exploring:
   - GitOps with ArgoCD
   - Monitoring with Prometheus & Grafana
   - Microservices Architecture
+  - Service Mesh with Istio
 ```
+
+---
+
+## 📌 Highlights & Achievements
+
+<table align="center">
+  <tr>
+    <td align="center">✅</td>
+    <td>Built <b>multiple real-world production websites</b></td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td>Implemented <b>end-to-end CI/CD pipelines</b> with automated testing & deployment</td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td>Hands-on with <b>10+ AWS services</b> in production environments</td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td>Learning <b>container orchestration with Kubernetes</b></td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td>Infrastructure as Code enthusiast with <b>Terraform</b></td>
+  </tr>
+  <tr>
+    <td align="center">✅</td>
+    <td>Gained practical DevOps experience in a <b>startup environment</b></td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Skills Matrix
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Cloud Platforms** | AWS (EC2, S3, Lambda, RDS, CloudFormation, IAM, VPC, Route53, CloudWatch) |
+| **Containerization** | Docker, Docker Compose, Container Registry |
+| **Orchestration** | Kubernetes, Helm Charts |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI |
+| **IaC** | Terraform, CloudFormation, Ansible |
+| **Programming** | Java, Python, Bash, JavaScript |
+| **Frameworks** | Spring Boot, Node.js |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Web Servers** | Nginx, Apache, Tomcat |
+| **Monitoring** | Prometheus, Grafana, CloudWatch |
+| **Version Control** | Git, GitHub, GitLab |
+
+</div>
+
+---
+
+## 💻 Featured Projects
+
+> 🚧 **Coming Soon!** I'm actively working on exciting DevOps and Cloud projects. Check back soon or connect with me to learn more!
+
+**Projects in Progress:**
+- 🔄 Automated CI/CD Pipeline with Multi-Stage Deployments
+- ☁️ AWS Infrastructure Automation with Terraform
+- 🐳 Kubernetes Cluster Setup and Application Deployment
+- 🔐 Secure DevOps Practices Implementation
 
 ---
 
