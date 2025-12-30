@@ -49,22 +49,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabari432&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari432&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sabari432&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## ⚡ GitHub Activity Graph
