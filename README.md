@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabari432&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari432&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabari432&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari432&layout=compact&theme=radical&hide_border=false" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabari432&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sabari432&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## ⚡ GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari432&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari432&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabari432&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sabari432&theme=radical&no-frame=false&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
