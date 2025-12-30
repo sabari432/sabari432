@@ -2,9 +2,7 @@
 <h3 align="center">🚀 DevOps Enthusiast | AWS & Cloud Learner | Java Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/sabari432">
-    <img src="https://komarev.com/ghpvc/?username=sabari432&label=Profile%20views&color=0e75b6&style=flat" alt="sabari432" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sabari432&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -13,7 +11,7 @@
 - 🎓 Final-year student passionate about **DevOps, Cloud & Automation**
 - ☁️ Hands-on experience with **AWS (10–15 services)**
 - 🔁 Building **CI/CD pipelines** using GitHub Actions & Jenkins
-- 🧑‍💻 Working at a **startup**, gaining real-world DevOps exposure
+- 🧑‍💻 Working at a **startup**, gaining real-world DevOps experience
 - 🛠 Built **real-world websites for Java developers**
 
 ---
@@ -59,7 +57,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sabari432&theme=onedark&row=1&column=6" />
 </p>
@@ -70,7 +68,7 @@
 - ✅ Built **multiple real-world websites**
 - ✅ Implemented **CI/CD pipelines**
 - ✅ Hands-on with **AWS & DevOps tools**
-- ✅ Learning **Kubernetes, Terraform, Jenkins**
+- ✅ Learning **Kubernetes, Terraform & Jenkins**
 - ✅ Active GitHub contributor
 
 ---
