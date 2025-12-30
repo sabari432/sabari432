@@ -65,33 +65,10 @@ const sabareeswaran = {
         "Managing production deployments"
     ],
     
-    funFact: "I love watching Breaking Bad 😎🔥"
 };
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabari432&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9&bg_color=0d1117" alt="Sabareeswaran's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabari432&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabari432&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7FF&fire=36BCF7FF&currStreakLabel=36BCF7FF" alt="Sabareeswaran's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabari432&custom_title=Sabareeswaran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=36BCF7FF&line=36BCF7FF&point=FFFFFF&area_color=36BCF7FF&area=true&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 ### ☁️ AWS Services (10-15)
 ```yaml
