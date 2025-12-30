@@ -278,7 +278,7 @@ graph LR
 
 | 🔭 Currently Working On | 🌱 Learning | 👯 Looking to Collaborate On |
 |:---:|:---:|:---:|
-| Web Applications | Kubernetes Basics | Open Source Projects |
+| Software Applications | Kubernetes Basics | Open Source Projects |
 | CI/CD Automation | Advanced Terraform | DevOps Tools |
 | AWS Infrastructure | Container Orchestration | Cloud Solutions |
 
