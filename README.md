@@ -17,7 +17,7 @@
 ```python
 sabari = {
     "role":       "Software Engineer, AI Voice & Platforms @ AloftLabs AI",
-    "experience": "2+ years in production (healthcare, workforce, enterprise)",
+    "experience": "3+ years in production (healthcare, workforce, enterprise)",
     "location":   "Pollachi, Tamil Nadu, India",
     "building":   "AegisForge: evidence-first, LLM-assisted security lab tool",
     "learning":   "Application security (Burp Suite, OWASP), LLM evaluation",
