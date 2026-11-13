@@ -18,7 +18,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           config_display: large
-          config_order: base.header, isocalendar, languages, habits, topics, pagespeed
+          config_order: base.header, isocalendar, languages, habits
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -28,9 +28,3 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_charts: yes
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 24
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://creativedudes.tech
-          plugin_pagespeed_detailed: yes
